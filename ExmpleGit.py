@@ -1,12 +1,12 @@
 #1
-print(" elephant ")
+print("elephant ")
 
 #2
 print(" Hello Enter your adress: ")
 
 
 print("Ori")
-print("Maalot tarshiha")
+print("Maalot tarshiha ")
 
 """
 name = "Name" 
